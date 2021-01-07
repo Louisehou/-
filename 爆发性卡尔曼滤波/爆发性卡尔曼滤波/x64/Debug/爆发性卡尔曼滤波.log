@@ -1,0 +1,10 @@
+﻿  源.cpp
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\houha\documents\visual studio 2015\projects\爆发性卡尔曼滤波\爆发性卡尔曼滤波\源.cpp(70): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\houha\documents\visual studio 2015\projects\爆发性卡尔曼滤波\爆发性卡尔曼滤波\源.cpp(72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\houha\documents\visual studio 2015\projects\爆发性卡尔曼滤波\爆发性卡尔曼滤波\源.cpp(75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  爆发性卡尔曼滤波.vcxproj -> c:\users\houha\documents\visual studio 2015\Projects\爆发性卡尔曼滤波\x64\Debug\爆发性卡尔曼滤波.exe
+  爆发性卡尔曼滤波.vcxproj -> c:\users\houha\documents\visual studio 2015\Projects\爆发性卡尔曼滤波\x64\Debug\爆发性卡尔曼滤波.pdb (Full PDB)
