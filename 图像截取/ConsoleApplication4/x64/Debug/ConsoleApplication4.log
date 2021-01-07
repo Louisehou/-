@@ -1,0 +1,7 @@
+﻿  截取.cpp
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\算法组第二阶段学习资料\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConsoleApplication4.vcxproj -> C:\Users\houha\Documents\Visual Studio 2015\Projects\图像截取\x64\Debug\截取.exe
+  ConsoleApplication4.vcxproj -> C:\Users\houha\Documents\Visual Studio 2015\Projects\图像截取\x64\Debug\截取.pdb (Full PDB)
